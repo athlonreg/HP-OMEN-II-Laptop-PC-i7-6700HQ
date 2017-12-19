@@ -1,0 +1,62 @@
+12:616  0:149  Found UEFI Acpi 2.0 RSDP at 7AEFD014
+12:616  0:000  Saving ACPI tables from RSDP 7AEFD014 to EFI\CLOVER\ACPI\origin ...
+12:616  0:000   7AEFD014: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+12:616  0:000    (Xsdt: 7AEB6188, Rsdt: 7AEB60C4)
+12:616  0:000    7AEB6188: 'XSDT', 'SLIC-MPC', Rev: 1, Len: 228
+12:616  0:000    7AEB60C4: 'RSDT', 'SLIC-MPC', Rev: 1, Len: 132
+12:616  0:000    Tables in Xsdt: 24
+12:616  0:000    0. 7AEE3000: 'FACP', 'SLIC-MPC', Rev: 5, Len: 244
+12:616  0:000        (Dsdt: 7AEC1000, Facs: 7AE79000, XDsdt: 7AEC1000, XFacs: 0)
+12:616  0:000        7AEC1000: 'DSDT', '820D', Rev: 2, Len: 118897
+12:619  0:002        7AE79000: 'FACS', Ver: 2, Len: 64
+12:619  0:000    1. 7AEFC000: 'UEFI', '820D', Rev: 1, Len: 566
+12:619  0:000    2. 7AEFB000: 'UEFI', '820D', Rev: 1, Len: 66
+12:619  0:000    3. 7AEF4000: 'SSDT', '820D', Rev: 1, Len: 28301
+12:619  0:000    4. 7AEF3000: 'MSDM', 'SLIC-MPC', Rev: 3, Len: 85
+12:619  0:000    5. 7AEEE000: 'SSDT', '820D', Rev: 2, Len: 20064
+12:619  0:000    6. 7AEEA000: 'SSDT', '820D', Rev: 2, Len: 13701
+12:619  0:000    7. 7AEE9000: 'DBGP', '820D', Rev: 1, Len: 52
+12:619  0:000    8. 7AEE8000: 'DBG2', '820D', Rev: 0, Len: 84
+12:619  0:000    9. 7AEE7000: 'ASF!', '820D', Rev: 32, Len: 165
+12:619  0:000    10. 7AEE6000: 'ASPT', '820D', Rev: 7, Len: 52
+12:619  0:000    11. 7AEE5000: 'BOOT', '820D', Rev: 1, Len: 40
+12:619  0:000    12. 7AEE4000: 'DBGP', '820D', Rev: 1, Len: 52
+12:619  0:000    13. 7AEE2000: 'HPET', '820D', Rev: 1, Len: 56
+12:619  0:000    14. 7AEE1000: 'LPIT', '820D', Rev: 1, Len: 148
+12:619  0:000    15. 7AEE0000: 'APIC', '820D', Rev: 3, Len: 188
+12:619  0:000    16. 7AEDF000: 'MCFG', '820D', Rev: 1, Len: 60
+12:619  0:000    17. 7AEC0000: 'SSDT', '820D', Rev: 1, Len: 724
+12:619  0:000    18. 7AEBD000: 'SSDT', '820D', Rev: 2, Len: 11182
+12:619  0:000    19. 7AEBC000: 'SSDT', '820D', Rev: 2, Len: 3699
+12:619  0:000    20. 7AEB7000: 'SSDT', '820D', Rev: 1, Len: 17302
+12:619  0:000    21. 7AEB5000: 'DMAR', '820D', Rev: 1, Len: 168
+12:619  0:000    22. 7AEB4000: 'FPDT', 'SLIC-MPC', Rev: 1, Len: 68
+12:619  0:000    23. 7AEB3000: 'BGRT', '820D', Rev: 1, Len: 56
+12:619  0:000    Tables in Rsdt: 24
+12:619  0:000    0. 7AEE3000: 'FACP', 'SLIC-MPC', Rev: 5, Len: 244
+12:619  0:000        (Dsdt: 7AEC1000, Facs: 7AE79000, XDsdt: 7AEC1000, XFacs: 0)
+12:619  0:000        7AEC1000: 'DSDT', '820D', Rev: 2, Len: 118897
+12:621  0:002        7AE79000: 'FACS', Ver: 2, Len: 64
+12:621  0:000    1. 7AEFC000: 'UEFI', '820D', Rev: 1, Len: 566
+12:621  0:000    2. 7AEFB000: 'UEFI', '820D', Rev: 1, Len: 66
+12:621  0:000    3. 7AEF4000: 'SSDT', '820D', Rev: 1, Len: 28301
+12:621  0:000    4. 7AEF3000: 'MSDM', 'SLIC-MPC', Rev: 3, Len: 85
+12:621  0:000    5. 7AEEE000: 'SSDT', '820D', Rev: 2, Len: 20064
+12:621  0:000    6. 7AEEA000: 'SSDT', '820D', Rev: 2, Len: 13701
+12:621  0:000    7. 7AEE9000: 'DBGP', '820D', Rev: 1, Len: 52
+12:621  0:000    8. 7AEE8000: 'DBG2', '820D', Rev: 0, Len: 84
+12:621  0:000    9. 7AEE7000: 'ASF!', '820D', Rev: 32, Len: 165
+12:621  0:000    10. 7AEE6000: 'ASPT', '820D', Rev: 7, Len: 52
+12:621  0:000    11. 7AEE5000: 'BOOT', '820D', Rev: 1, Len: 40
+12:621  0:000    12. 7AEE4000: 'DBGP', '820D', Rev: 1, Len: 52
+12:621  0:000    13. 7AEE2000: 'HPET', '820D', Rev: 1, Len: 56
+12:621  0:000    14. 7AEE1000: 'LPIT', '820D', Rev: 1, Len: 148
+12:621  0:000    15. 7AEE0000: 'APIC', '820D', Rev: 3, Len: 188
+12:621  0:000    16. 7AEDF000: 'MCFG', '820D', Rev: 1, Len: 60
+12:621  0:000    17. 7AEC0000: 'SSDT', '820D', Rev: 1, Len: 724
+12:621  0:000    18. 7AEBD000: 'SSDT', '820D', Rev: 2, Len: 11182
+12:621  0:000    19. 7AEBC000: 'SSDT', '820D', Rev: 2, Len: 3699
+12:621  0:000    20. 7AEB7000: 'SSDT', '820D', Rev: 1, Len: 17302
+12:621  0:000    21. 7AEB5000: 'DMAR', '820D', Rev: 1, Len: 168
+12:621  0:000    22. 7AEB4000: 'FPDT', 'SLIC-MPC', Rev: 1, Len: 68
+12:621  0:000    23. 7AEB3000: 'BGRT', '820D', Rev: 1, Len: 56
